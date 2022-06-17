@@ -1,0 +1,97 @@
+body{
+    height: 3000px;
+}
+
+.close-button{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-family: Arial;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 18px;
+}
+
+.gray-div{
+    background-color: gray;
+    width: 320px;
+    height: 180px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.gray-div-2{
+    background-color: gray;
+    width: 320px;
+    height: 180px;
+    position: fixed;
+    bottom: 200px;
+    right: 10px;
+}
+
+.close-button-2{
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 18px;
+}
+
+.gray-div-3{
+    background-color: gray;
+    width: 320px;
+    height: 180px;
+    position: fixed;
+    bottom: 400px;
+    right: 10px;
+}
+
+.timestamp{
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.t-shirt{
+    width: 300px;
+}
+
+.img-shirt{
+    position: relative;
+    width: 300px;
+}
+
+.discount{
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}

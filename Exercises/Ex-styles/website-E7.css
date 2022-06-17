@@ -1,0 +1,70 @@
+.photo-1{
+    width: 200px;
+    border-radius: 20px;
+}
+.photo-2{
+    width: 200px;
+    height: 200px;
+}
+.photo-3{
+    height: 200px;
+    width: 200px;
+    border-radius: 250px;
+}
+.textbox-1{
+    margin-left: 100px;
+    border-style: solid;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.textbox-2{
+    margin-left: 20px;
+    padding-right: 150px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 15px;
+    box-shadow:0px 10px 10px rgba(0,0,0,0.10);
+}
+.parag-1{
+  font-family: Arial; 
+  color: rgb(124, 123, 125);
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.textbox-3{
+    margin-left: 10px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.parag-2{
+    font-family: Arial;
+    font-size: small;
+    color: rgb(124, 123, 125);
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.button-1{
+    background-color: rgb(40, 88, 167);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.photo-4{
+    width: 100px;
+    height: 100px;
+    border-radius: 250px;
+    margin-left: 700px;
+    margin-top: 100px;
+}

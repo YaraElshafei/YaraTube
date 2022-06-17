@@ -1,0 +1,181 @@
+
+.square{
+    background-color: rgb(255, 0, 1); 
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.circle{
+    background-color: rgb(1, 128, 2);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.title{
+    font-family: Arial;
+}
+
+.card{
+    width: 300px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 0.15px;
+    padding-left: 10px;
+    padding-bottom: 16px;
+    margin-top: 10px;
+}
+
+.youtube-music{
+    background-color: rgb(32, 31, 33);
+    width: 350px;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.title-2{
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+.subtitle{
+    color: gray;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+  
+  .text-box {
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+  }
+  
+  .tweet-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+
+  .twitter{
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.15) ;
+    width: 459px;
+    border-radius: 5px;
+  }
+
+  .mushu{
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.15) ;
+    width: 150px; 
+    height: 300px;
+    margin-left: 10px;
+  }
+
+  .picture{
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      margin-top: 20px;
+  }
+
+  .name{
+      font-family: Arial;
+      font-weight: bold;
+      margin-left: 5px;
+  }
+
+  .mutual-friends{
+      font-family: Arial;
+      color: gray;
+      margin-left: 5px;
+  }
+
+  .add-friend{
+      background-color: rgb(48, 48, 233);
+      color: white;
+      border: none;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      border-radius: 3px;
+      margin-left: 5px;
+  }
+
+  .three{
+     box-shadow: 0px 10px 10px rgba(0,0,0,0.15) ;
+     width: 150px; 
+     height: 300px;
+      margin-left: 10px;
+      display: inline-block;
+  }
+
+  .photo-1{
+    width: 150px;
+    margin-bottom: 5px;
+    display: block;
+    margin-left: 90px;
+    margin-top: 20px;
+  }
+
+  .searchbar{
+    width: 300px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 15px;
+    box-shadow:0px 10px 10px rgba(0,0,0,0.10);
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+  }
+
+  .google-search{
+      display: inline-block;
+      border: none;
+      font-family: Arial;
+      font-weight: bold;
+      margin-top: 30px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-right: 10px;
+      margin-left: 30px;
+  }
+
+  .lucky{
+      display: inline-block;
+    border: none;
+    font-family: Arial;
+    font-weight: bold;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }

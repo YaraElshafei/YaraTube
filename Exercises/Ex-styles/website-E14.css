@@ -1,0 +1,31 @@
+body{
+    height: 3000px;
+}
+
+.bottom-right{
+    background-color: black;
+    color: white;
+    display: flex;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.right-sidebar{
+    background-color: green;
+    color: white;
+    position: fixed;
+    top: 0;
+    bottom: 40px;
+    right: 0;
+    width: 100px;    
+}
+
+.entire-page{
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 100px;
+}

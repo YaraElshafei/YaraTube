@@ -1,0 +1,90 @@
+.flex-1{
+    display: flex;
+    flex-direction: row;
+}
+
+.W-200px{
+    background-color: lightblue;
+    width: 200px;
+}
+
+.W-75px{
+    background-color: lightpink;
+    width: 75px;
+}
+
+.flex-2{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.item1{
+    background-color: lightblue;
+    width: 50px;
+}
+
+.item2{
+    background-color: lightpink;
+    flex: 1;
+}
+
+.item3{
+    background-color: lightblue;
+    width: 75px;
+}
+
+.flex-3{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.items{
+    background-color: lightpink;
+}
+
+.flex-4{
+    margin-top: 30px;
+    height: 50px;
+    border-color: gray;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-5{
+    margin-top: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    width: 300px;
+    border-radius: 6px;
+}
+
+.div-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: Arial;
+}
+
+.buttons{
+    background-color: rgb(49, 109, 245);
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
